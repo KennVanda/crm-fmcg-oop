@@ -5,7 +5,7 @@ perusahaan ke pelanggan, lalu menganalisis pelanggan loyal, top-k
 pelanggan, produk favorit, churn, segmentasi RFM, dan rekomendasi produk.
 
 Tugas Besar SI-102 Dasar Pemrograman I, Sistem Informasi ITHB (2026).
-Kelompok: Kenneth Mahinda Vanda (1226005) & Jovanka Vesya Ndearly (1225020).
+Kelompok: Kenneth Mahinda Vanda (1226005) & Jovanka Vesya Ndearly (1226020).
 
 ## Fitur
 - 18 class: abstraction, encapsulation, inheritance, polymorphism
