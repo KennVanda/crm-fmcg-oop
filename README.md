@@ -19,4 +19,4 @@ Atau: python crm_fmcg.py  |  python crm_fmcg.py --menu
 
 ## Penggunaan AI
 Draf kode dan laporan dibuat dengan bantuan Claude (Anthropic).
-[class GoldCustomer dan unit test-nya, pengujian di Google Colab.]
+Kami mengerjakan bagian class GoldCustomer dan unit testnya, pengujian di Google Colab.
